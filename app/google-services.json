@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940991190284",
+    "project_id": "autocarservice-354d3",
+    "storage_bucket": "autocarservice-354d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940991190284:android:84c3ade644a7cdf8b66529",
+        "android_client_info": {
+          "package_name": "com.example.autocarservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLS-9tdd2qZguOrQv-esISYY8LInmnF1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
